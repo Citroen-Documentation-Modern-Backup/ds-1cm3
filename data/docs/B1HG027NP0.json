@@ -1,0 +1,45 @@
+{
+ "ref": "B1HG027NP0",
+ "refDisplay": "B1HG027NP0",
+ "title": "Dépose - repose : débitmètre d’admission d’air ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1IG0115P0",
+ "refDisplay": "B1IG0115P0",
+ "title": "Dépose - repose : bougies d’allumage ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0013"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "ref": "026604455501A",
+ "refDisplay": "0266 04 455501A",
+ "title": "FREIN A MAIN DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0351"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0351"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0351"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0351"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0351"
+  }
+ ]
+}

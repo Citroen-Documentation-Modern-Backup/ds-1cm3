@@ -1,0 +1,40 @@
+{
+ "ref": "B3FE0106P0",
+ "refDisplay": "B3FE0106P0",
+ "title": "Contrôles-réglages : compensateur de freinage",
+ "nature": "Contrôles réglages",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0043"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0043"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0043"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0043"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0043"
+  }
+ ]
+}

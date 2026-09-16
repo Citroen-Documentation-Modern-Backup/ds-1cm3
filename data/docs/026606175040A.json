@@ -1,0 +1,38 @@
+{
+ "ref": "026606175040A",
+ "refDisplay": "0266 06 175040A",
+ "title": "RESERVOIR CARBURANT JAUGE",
+ "nature": "",
+ "applicability": "GAZOLE QUALITE DA/DE/DE+ ET AVEC FILTRE A PARTICULES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0010"
+  }
+ ]
+}

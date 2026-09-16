@@ -1,0 +1,91 @@
+{
+ "ldp": "1CM3",
+ "label": "C-ELYSEE",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA4",
+     "lib": "BERLINE 4PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FCM",
+     "lib": "1.2 i VTi (EB2 M)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0FBF",
+     "lib": "1.6 HDi 92 (DV6DTED)"
+    },
+    {
+     "val": "B0FEC",
+     "lib": "1.6 VTi 16v 115 (EC5)"
+    },
+    {
+     "val": "B0FKQ",
+     "lib": "INJECTION EB2F 60KW 1200 3 CYL ESS"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA4&B0F=B0FCM",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FCM"
+   },
+   "label": "BERLINE 4PTES · 1.2 i VTi (EB2 M)"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FBW"
+   },
+   "label": "BERLINE 4PTES · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE 4PTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FEC",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FEC"
+   },
+   "label": "BERLINE 4PTES · 1.6 VTi 16v 115 (EC5)"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FKQ",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FKQ"
+   },
+   "label": "BERLINE 4PTES · INJECTION EB2F 60KW 1200 3 CYL ESS"
+  }
+ ]
+}

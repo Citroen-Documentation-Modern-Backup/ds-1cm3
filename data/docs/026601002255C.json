@@ -1,0 +1,18 @@
+{
+ "ref": "026601002255C",
+ "refDisplay": "0266 01 002255C",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13324",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0049"
+  }
+ ]
+}

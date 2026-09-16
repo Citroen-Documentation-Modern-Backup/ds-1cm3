@@ -1,0 +1,38 @@
+{
+ "ref": "026603413101A",
+ "refDisplay": "0266 03 413101A",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": "PIVOT ROUE DIAMETRE 72",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0026"
+  }
+ ]
+}

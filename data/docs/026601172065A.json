@@ -1,0 +1,18 @@
+{
+ "ref": "026601172065A",
+ "refDisplay": "0266 01 172065A",
+ "title": "SURALIMENTATION RACCORD D’AIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0014"
+  }
+ ]
+}

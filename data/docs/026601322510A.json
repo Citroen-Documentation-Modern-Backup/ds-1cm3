@@ -1,0 +1,18 @@
+{
+ "ref": "026601322510A",
+ "refDisplay": "0266 01 322510A",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "COUPLE PONT 20 X 73 ET BVA AT8",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0016"
+  }
+ ]
+}

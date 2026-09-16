@@ -1,0 +1,18 @@
+{
+ "ref": "026601333340A",
+ "refDisplay": "0266 01 333340A",
+ "title": "BOITIER ELECTRONIQUE",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE+ ET AVEC SYSTEME ESP ET SANS STOP AND START",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

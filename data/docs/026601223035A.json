@@ -1,0 +1,18 @@
+{
+ "ref": "026601223035A",
+ "refDisplay": "0266 01 223035A",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0008"
+  }
+ ]
+}

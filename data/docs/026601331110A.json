@@ -1,0 +1,18 @@
+{
+ "ref": "026601331110A",
+ "refDisplay": "0266 01 331110A",
+ "title": "CARTER CONVERTISSEUR",
+ "nature": "",
+ "applicability": "BVA AT8",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0017"
+  }
+ ]
+}

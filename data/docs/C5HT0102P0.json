@@ -1,0 +1,160 @@
+{
+ "ref": "C5HT0102P0",
+ "refDisplay": "C5HT0102P0",
+ "title": "Évolution  : climatisation  (nouveau fluide 1234YF)",
+ "nature": "Évolutions",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FCM",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBW",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FBF",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FEC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CM3",
+   "variantKey": "B0D=B0DA4&B0F=B0FKQ",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKN",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKH",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FLB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FCR",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DAF&B0F=B0FKU",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKD",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FBF",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKE",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKN",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKH",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCA",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FLB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FCR",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CH5",
+   "variantKey": "B0D=B0DCL&B0F=B0FKU",
+   "fctId": "FCT0347"
+  }
+ ]
+}
