@@ -1,18 +1,1 @@
-{
- "ref": "026601330110A",
- "refDisplay": "0266 01 330110A",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "COUPLE PONT 20 X 73 ET BVA AT8",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM3",
-   "variantKey": "B0D=B0DA4&B0F=B0FEC",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026601330110A","refDisplay":"0266 01 330110A","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"COUPLE PONT 20 X 73 ET BVA AT8","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM3","variantKey":"B0D=B0DA4&B0F=B0FEC","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CM3)(B0FEC)(DCW88)(DVQ47)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"003234"},[]],["thesaurus",{"type":"10","code":"013416"},[]],["mpr",{"catal":"0266","grp":"91","grp2":"01","maj":"20120718","numfich":"330110A"},[["appl",{},["{(?1CM3)(B0FEC)(DCW88)(DVQ47)}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00081757","path":"/img/pr/57/0008/00081757.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","ref":"9805955980","refpg":"98 059 559 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 20X73"]]]],["reporg",{},[["monte",{},["(TS71)"]],["monte",{},["TS71"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"324, 115, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003234","ref":"00009730AE","refpg":"9730 AE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["MOBIL ATF 4HP20/AL4"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"170, 473, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"013416","ref":"0000229959","refpg":"2299 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"48, 6, 11","shape":"circle"},[]],["area",{"coords":"216, 6, 11","shape":"circle"},[]],["area",{"coords":"385, 6, 11","shape":"circle"},[]],["area",{"coords":"330, 6, 11","shape":"circle"},[]],["area",{"coords":"89, 92, 11","shape":"circle"},[]],["area",{"coords":"273, 6, 11","shape":"circle"},[]],["area",{"coords":"104, 6, 11","shape":"circle"},[]],["area",{"coords":"160, 6, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026601333345A",
- "refDisplay": "0266 01 333345A",
- "title": "BOITIER ELECTRONIQUE",
- "nature": "",
- "applicability": "BVA AT8",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM3",
-   "variantKey": "B0D=B0DA4&B0F=B0FEC",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026601333345A","refDisplay":"0266 01 333345A","title":"BOITIER ELECTRONIQUE","nature":"","applicability":"BVA AT8","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM3","variantKey":"B0D=B0DA4&B0F=B0FEC","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CM3)(B0FEC)(DVQ47)}","tree":["document",{},[["thesaurus",{"type":"10","code":"010151"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"0266","grp":"613","grp2":"01","maj":"20120110","numfich":"333345A"},[["appl",{},["{(?1CM3)(B0FEC)(DVQ47)}"]],["sti",{"ident":"61301"},[]],["img",{"numfich":"00079973","path":"/img/pr/73/0007/00079973.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010151","ref":"1608755280","refpg":"16 087 552 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)(%TVCD00)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"234, 394, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006028","ref":"0000693648","refpg":"6936 48"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X80-6-15"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"44, 6, 11","shape":"circle"},[]],["area",{"coords":"108, 502, 11","shape":"circle"},[]]]]]]]]]]}

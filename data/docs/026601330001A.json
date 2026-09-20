@@ -1,18 +1,1 @@
-{
- "ref": "026601330001A",
- "refDisplay": "0266 01 330001A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MA ET COUPLE PONT 13 X 59",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM3",
-   "variantKey": "B0D=B0DA4&B0F=B0FCM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026601330001A","refDisplay":"0266 01 330001A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MA ET COUPLE PONT 13 X 59","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM3","variantKey":"B0D=B0DA4&B0F=B0FCM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CM3)(B0FCM)(DVQ04)(DCW29)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0266","grp":"67","grp2":"01","maj":"20111026","numfich":"330001A"},[["appl",{},["{(?1CM3)(B0FCM)(DVQ04)(DCW29)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00095282","path":"/img/pr/82/0009/00095282.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"9800912180","refpg":"98 009 121 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(13X59)-CT(21X17)"]]]],["prremp",{"coef":"01","ref":"9805320480","refpg":"98 053 204 80"},[]],["reporg",{},[["monte",{},["CR04"]],["monte",{},["(CR04)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"128, 88, 11","shape":"circle"},[]]]]]]]]]]}

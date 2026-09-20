@@ -1,18 +1,1 @@
-{
- "ref": "026606182310A",
- "refDisplay": "0266 06 182310A",
- "title": "ECRANS THERMIQUE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM3",
-   "variantKey": "B0D=B0DA4&B0F=B0FCM",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"026606182310A","refDisplay":"0266 06 182310A","title":"ECRANS THERMIQUE D’ECHAPPEMENT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM3","variantKey":"B0D=B0DA4&B0F=B0FCM","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CM3)(B0FCM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000261"},[]],["thesaurus",{"type":"10","code":"000267"},[]],["mpr",{"catal":"0266","grp":"51","grp2":"06","maj":"20120927","numfich":"182310A"},[["appl",{},["{(?1CM3)(B0FCM)}"]],["sti",{"ident":"5101"},[]],["img",{"numfich":"00096441","path":"/img/pr/41/0009/00096441.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"000261","ref":"00001723HF","refpg":"1723 HF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"89, 232, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000261","ref":"9673004880","refpg":"96 730 048 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)/($,,1,13145)/}"]]]],["prremp",{"coef":"01","ref":"9805380580","refpg":"98 053 805 80"},[]]]],["pr",{"codesi":"000261","ref":"9805380580","refpg":"98 053 805 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)/($1,13146,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"248, 93, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000267","ref":"0000171844","refpg":"1718 44"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M6X100"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"289, 322, 11","shape":"circle"},[]],["area",{"coords":"48, 6, 11","shape":"circle"},[]],["area",{"coords":"183, 185, 11","shape":"circle"},[]]]]]]]]]]}

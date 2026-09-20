@@ -1,18 +1,1 @@
-{
- "ref": "026604456310A",
- "refDisplay": "0266 04 456310A",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "BVA AT8 JUSQU’A OPR 13629",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM3",
-   "variantKey": "B0D=B0DA4&B0F=B0FEC",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"026604456310A","refDisplay":"0266 04 456310A","title":"POMPE A VIDE","nature":"","applicability":"BVA AT8 JUSQU’A OPR 13629","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM3","variantKey":"B0D=B0DA4&B0F=B0FEC","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CM3)(B0FEC)(DVQ47)/($,,1,13629)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001659"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0266","grp":"234","grp2":"04","maj":"20130814","numfich":"456310A"},[["appl",{},["{(?1CM3)(B0FEC)(DVQ47)/($,,1,13629)/}"]],["sti",{"ident":"23401"},[]],["img",{"numfich":"00096709","path":"/img/pr/09/0009/00096709.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001659","ref":"9806674580","refpg":"98 066 745 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM3)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"227, 372, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006815","ref":"00006925W6","refpg":"6925 W6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CM3)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-16"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"223, 70, 11","shape":"circle"},[]]]]]]]]]]}
